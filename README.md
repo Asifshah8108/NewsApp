@@ -1,4 +1,4 @@
-# moviesspace
+# NewsApp
 
 A new Flutter project.
 
