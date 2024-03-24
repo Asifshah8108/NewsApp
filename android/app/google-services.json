@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1015158869087",
+    "project_id": "newsapp-5f9b3",
+    "storage_bucket": "newsapp-5f9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015158869087:android:94058190fab579ebcf9fea",
+        "android_client_info": {
+          "package_name": "com.example.moviesspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015158869087-ub85vm0cjnl26oa2idfnenhr4mntqeob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAdHTWJE_elEuH03dhss6KWJGgx3Kd1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015158869087-ub85vm0cjnl26oa2idfnenhr4mntqeob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015158869087-bpj6crcg1jj5el9be4ls6thf6t9pqo5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moviesspace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
